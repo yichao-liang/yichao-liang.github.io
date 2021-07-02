@@ -21,3 +21,5 @@ of AI research: **probabilistic inference** for managing uncertainty, **neural n
 for pattern recognition, **symbolic languages** for abstract knowledge representation,
 **causal reasoning** for explainability and control, and **hierarchical inference**
 for learning to learn.
+
+Outside main research, I like to seek for truth and bueaty, as they are found in nature, maths, and art.
