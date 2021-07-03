@@ -24,4 +24,4 @@ for pattern recognition, **symbolic languages** for abstract knowledge represent
 **causal reasoning** for explainability and control, and **hierarchical inference**
 for learning to learn.
 
-Outside main research, I like to seek for truth and bueaty, as they are found in nature, maths, and art.
+Outside main research, I like to seek for truth and beauty, as they are found in nature, maths, and art.
