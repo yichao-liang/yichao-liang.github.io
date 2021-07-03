@@ -11,7 +11,7 @@ redirect_from:
 I am a [MSc student in Computer Science](http://www.cs.ox.ac.uk/admissions/graduate/msc-computer-science/) at University of Oxford and 
 a visiting student at [Prof. Josh Tenenbaum's lab](https://cocosci.mit.edu/).
 
-Previously, I obtained my [BSc in Artificial Intelligence](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with Class Prize for Top Performance at [The University of Edinburgh](https://www.ed.ac.uk/informatics).
+Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with Class Prize for Top Performance at [The University of Edinburgh](https://www.ed.ac.uk/informatics).
 
 I am interested in significantly advancing the development of humankind by pushing the frontier of scientific understanding and engineering. To this end, I research in AI.
 
