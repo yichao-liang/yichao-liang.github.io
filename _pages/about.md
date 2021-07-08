@@ -15,7 +15,7 @@ Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac
 
 I am interested in significantly advancing the development of humankind by pushing the frontier of scientific understanding and engineering. To this end, I research in AI.
 
-Specifically, I am interested in the complementary goals of building more human-like machine 
+More specifically, I investigate in the complementary goals of building more human-like machine 
 learning systems and better understanding human learning, with the ultimate goal of
 reaching [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence). 
 To this end, I synthesize and build from the success of generations
