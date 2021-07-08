@@ -27,7 +27,7 @@ for pattern recognition, amortized inference, **symbolic languages** for abstrac
 **causal reasoning** for explainability and control, and **hierarchical inference**
 for learning to learn. Based on these methods, I'm particularly interested in the following topics:
 - Neural Program Induction (Learning to Program), Program Synthesis.
-- Differentiable, Probabilistic Programming; Latent Variable Models
+- Differentiable, Probabilistic Programming; Latent Variable Models.
 
 And their applications in: Visual, Language Understanding and Generation, Control, Concept Learning, and Theory Induction.
 
