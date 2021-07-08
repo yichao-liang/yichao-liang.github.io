@@ -12,7 +12,7 @@ I am an [MSc student in Computer Science](http://www.cs.ox.ac.uk/admissions/grad
 a visiting student at [Prof. Josh Tenenbaum's lab](https://cocosci.mit.edu/).
 
 Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with Class Prize for Top Performance at [The University of Edinburgh](https://www.ed.ac.uk/informatics).
-
+---
 ### Interests
 Boradly, I am interested in significantly advancing the development of humankind by pushing the frontier of scientific understanding and engineering. To this end, I research in AI.
 
