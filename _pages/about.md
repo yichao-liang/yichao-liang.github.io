@@ -20,7 +20,7 @@ Boradly, I am interested in significantly advancing the development of humankind
 
 More specifically, I investigate in the complementary goals of building more human-like machine 
 learning systems and better understanding human learning. 
-To this end, I want to expanding the foundation and scope of the probabilistic, neurosymbolic toolkit.
+To this end, I want to expand the foundation and scope of the probabilistic, neurosymbolic toolkit.
 This synthesizes from and builds on generations
 of AI research: **probabilistic inference** for managing uncertainty, **neural networks**
 for pattern recognition, amortized inference, **symbolic languages** for abstract knowledge representation,
