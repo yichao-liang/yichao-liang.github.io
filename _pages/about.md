@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### Bio
-I am an incoming [MSc student in Computer Science](http://www.cs.ox.ac.uk/admissions/graduate/msc-computer-science/) at University of Oxford and 
+I am an [MSc student in Computer Science](http://www.cs.ox.ac.uk/admissions/graduate/msc-computer-science/) at University of Oxford and 
 a visiting student at [Prof. Josh Tenenbaum's lab](https://cocosci.mit.edu/).
 
 Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with Class Prize for Top Performance (highest GPA) at [The University of Edinburgh](https://www.ed.ac.uk/informatics).
