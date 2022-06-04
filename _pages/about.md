@@ -28,4 +28,5 @@ The toolkit builds on:
 leveraging principals such as compositionality, causality and hierarchy.
 
 Outside of this, I like to seek for truth and beauty as they are found in nature, maths, and art.
+
 ---
