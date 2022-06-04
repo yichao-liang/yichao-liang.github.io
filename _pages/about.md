@@ -21,12 +21,12 @@ i.e., building more human-like machine intelligence systems and better understan
 
 More specifically, I work on expanding the foundation and scope of ***the probabilistic, neuro-symbolic toolkit*** for learning and reasoning, with application such as program induction; scene, language understanding; control; concept learning.
 
-The toolkit mainly builds on (but not limited to):
-- **probabilistic programming** for managing uncertainty;
-- **differentiable programming** for pattern recognition, amortized inference;
-- **program synthesis** for knowledge representation and manipulation;
+The toolkit mainly builds on:
+- **probabilistic inference** for managing uncertainty;
+- **neural networks** for pattern recognition, amortized inference;
+- **symbolic languages** for representing knowledge;
 
-leveraging principals such as compositionality, causality and hierarchy.
+leveraging principals such as compositionality, causality and hierarchy. Example tools are probabilistic, differentiable programming and program synthesis.
 
 Outside of this, I like to seek for truth and beauty as they are found in nature, maths, and art.
 
