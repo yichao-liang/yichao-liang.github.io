@@ -24,7 +24,7 @@ More specifically, I work on expanding the foundation and scope of the probabili
 The toolkit mainly builds on (but not limited to):
 - ***probabilistic inference*** for managing uncertainty;
 - ***neural networks*** for pattern recognition, amortized inference;
-- ***symbolic languages*** for knowledge representation,
+- ***symbolic languages*** for knowledge representation;
 
 leveraging principals such as compositionality, causality and hierarchy.
 
