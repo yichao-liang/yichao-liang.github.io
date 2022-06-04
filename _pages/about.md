@@ -22,9 +22,9 @@ i.e., building more human-like machine intelligence systems and better understan
 More specifically, I work on expanding the foundation and scope of the probabilistic, neuro-symbolic toolkit for learning and reasoning, with application such as program induction; scene, language understanding; control; concept learning.
 
 The toolkit mainly builds on (but not limited to):
-- ***probabilistic inference*** for managing uncertainty;
-- ***neural networks*** for pattern recognition, amortized inference;
-- ***symbolic languages*** for knowledge representation;
+- **probabilistic inference** for managing uncertainty;
+- **neural networks** for pattern recognition, amortized inference;
+- **symbolic languages** for knowledge representation;
 
 leveraging principals such as compositionality, causality and hierarchy.
 
