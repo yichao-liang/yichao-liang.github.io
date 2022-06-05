@@ -19,7 +19,7 @@ Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac
 Broadly, I am interested in significantly advancing the development of mankind by pushing the frontier of scientific understanding and engineering. To this end, I research in [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), 
 i.e., building more human-like machine intelligence systems and better understanding human intelligence.
 
-More specifically, I work on expanding the foundation and scope of ***the probabilistic, neuro-symbolic toolkit*** for learning and reasoning, with application such as program induction; scene, language understanding; control; concept learning.
+More specifically, I work on expanding the foundation and scope of ***the probabilistic, neuro-symbolic toolkit*** for learning and reasoning, with application in program synthesis; perceptual, language understanding; concept learning; control; and ultimately a agent that we can communicate with, solves any problem we pose at it.
 
 The toolkit mainly includes **probabilistic, differentiable programming** and **program synthesis** that build on:
 - *probabilistic inference* for managing uncertainty;
