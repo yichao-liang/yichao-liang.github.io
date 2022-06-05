@@ -16,10 +16,9 @@ Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac
 ---
 
 ### Interests
-Broadly, I am interested in significantly advancing the development of mankind by pushing the frontier of scientific understanding and engineering. To this end, I research in [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence), 
-i.e., building more human-like machine intelligence systems and better understanding human intelligence.
+Broadly, I am interested in significantly advancing the development of mankind by pushing the frontier of scientific understanding and engineering. To this end, I research in building more human-like machine intelligence and better understanding human intelligence, for creating [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
 
-More specifically, I work on expanding the foundation and scope of ***the probabilistic, neuro-symbolic toolkit*** for learning and reasoning, which can be applied in program synthesis; perceptual, language understanding; concept learning; control; and ultimately building agents that we can communicate with, solve any problem we pose at them.
+More specifically, I work on expanding the foundation and scope of ***the probabilistic, neuro-symbolic toolkit***, building agents that we can communicate with and solve any problem we pose at them -- write programs; understand percepts, language; take rational actions...
 
 The toolkit mainly includes **probabilistic, differentiable programming** and **program synthesis** that build on:
 - *probabilistic inference* for managing uncertainty;
