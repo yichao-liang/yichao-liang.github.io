@@ -25,7 +25,7 @@ The toolkit mainly includes **probabilistic, differentiable programming** and **
 - *neural networks* for pattern recognition, amortized inference;
 - *symbolic languages* for knowledge representation;
 
-and leverages principles such as causality and hierarchy.
+and leverages principles such as causality, compositionality and hierarchy.
 
 Outside of this, I like to seek for truth and beauty as they are found in nature, maths, and art.
 
