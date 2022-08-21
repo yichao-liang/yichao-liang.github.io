@@ -23,7 +23,7 @@ More specifically, I work on expanding the foundation and scope of ***the probab
 The toolkit mainly includes **probabilistic, differentiable programming** and **program synthesis** that build on:
 - *probabilistic inference* for managing uncertainty;
 - *neural networks* for pattern recognition, amortized inference;
-- *programming languages* for knowledge representation;
+- *symbolic languages* for knowledge representation;
 
 and leverages principles such as causality, compositionality and hierarchy.
 
