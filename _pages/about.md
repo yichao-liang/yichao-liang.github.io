@@ -26,4 +26,5 @@ Concretely, my work involves expanding the foundation and scope of **probabilist
 and leverages principles such as causality, compositionality and hierarchy.
 
 Beyond this, I like to seek truth and beauty as they are found in nature, maths, and art.
+
 ---
