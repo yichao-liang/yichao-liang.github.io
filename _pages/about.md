@@ -8,25 +8,22 @@ redirect_from:
   - /about.html
 ---
 ### Bio
-I am an [MSc student in Computer Science](http://www.cs.ox.ac.uk/admissions/graduate/msc-computer-science/) at University of Oxford and 
-a visiting student at [Prof. Josh Tenenbaum's lab](https://cocosci.mit.edu/) at MIT.
+I'm a PhD student at the [Computational and Biological Learning Lab](https://cbl.eng.cam.ac.uk/), University of Cambridge supervised by [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/) and advised by [José Miguel Hernández-Lobato](https://jmhl.org/). I'm also a visiting student at the [Cocosci group](https://cocosci.mit.edu/), MIT.
 
-Previously, I was awarded [BSc in Artificial Intelligence](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with Class Prize for Top Performance (highest average grade) at [The University of Edinburgh](https://www.ed.ac.uk/informatics).
+I obtained my [MSc in CS](https://www.cs.ox.ac.uk/teaching/MSCinCS/) conducting research with the [Visual Geometry Group](https://www.robots.ox.ac.uk/~vgg/) at Oxford, and I was awarded [BSc in AI](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with *Class Prize for Top Performance* at Edinburgh University.
 
 ---
 
 ### Interests
-Broadly, I am interested in significantly advancing the development of mankind by pushing the frontier of scientific understanding and engineering. To this end, I research in building more human-like machine intelligence and better understanding human intelligence, for creating [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence).
+Broadly, I am interested in driving substantial advancements in humanity's development. To this end, my research focuses on developing embodied, generally intelligent agents [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) and understanding human intelligence.
 
-More specifically, I work on expanding the foundation and scope of ***the probabilistic, neuro-symbolic toolkit***, building agents that we can communicate with and solve any problem we pose at them -- write programs; understand percepts, language; take rational actions...
+Concretely, my work involves expanding the foundation and scope of **probabilistic, differentiable programming** and **program synthesis** which builds on:
 
-The toolkit mainly includes **probabilistic, differentiable programming** and **program synthesis** that build on:
-- *probabilistic inference* for managing uncertainty;
-- *neural networks* for pattern recognition, amortized inference;
+- *probabilistic modelling and inference* for managing uncertainty;
+- *neural networks* for pattern recognition, amortization;
 - *symbolic languages* for knowledge representation;
 
 and leverages principles such as causality, compositionality and hierarchy.
 
-Outside of this, I like to seek for truth and beauty as they are found in nature, maths, and art.
-
+Beyond this, I like to seek truth and beauty as they are found in nature, maths, and art.
 ---
