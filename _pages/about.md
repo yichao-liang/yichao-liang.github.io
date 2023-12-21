@@ -15,7 +15,7 @@ I obtained my [MSc in CS](https://www.cs.ox.ac.uk/teaching/MSCinCS/) conducting 
 ---
 
 ### Interests
-Broadly, I am interested in driving substantial advancements in humanity's development. To this end, my research focuses on the complementary goals of developing generally intelligent embodied agents [AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence) and understanding human intelligence.
+Broadly, I am interested in driving substantial advancements in humanity's development. To this end, my research focuses on the complementary goals of developing generally intelligent embodied agents ([AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)) and understanding human intelligence.
 
 
 Concretely, my work involves expanding the foundation and scope of **probabilistic, differentiable programming** and **program synthesis** which builds on:
