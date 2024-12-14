@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### Bio
-I'm a PhD student at the [Computational and Biological Learning Lab (CBL)](https://cbl.eng.cam.ac.uk/) at Cambridge, supervised by [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/) and [Carl Edward Rasmussen
-](https://mlg.eng.cam.ac.uk/carl/). I also collaborate closely with amazing people from the [Computational Cognitive Science group (CoCoSci)](https://cocosci.mit.edu/) at MIT and the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at Oxford.
+I'm a PhD student at the [Computational and Biological Learning Lab (CBL)](https://cbl.eng.cam.ac.uk/) at Cambridge, supervised by [Adrian Weller](https://mlg.eng.cam.ac.uk/adrian/). I also collaborate closely with amazing people from the [Computational Cognitive Science group (CoCoSci)](https://cocosci.mit.edu/) at MIT and the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at Oxford.
 
 I obtained [MSc in Advanced Computer Science](https://www.cs.ox.ac.uk/teaching/MSCinCS/) from Oxford, and was awarded [BSc in AI](http://www.drps.ed.ac.uk/17-18/dpt/utaintl.htm) with *Class Prize for Top Performance* from Edinburgh University.
 
