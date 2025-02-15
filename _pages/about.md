@@ -15,13 +15,7 @@ I obtained an [MSc in Advanced Computer Science](https://www.cs.ox.ac.uk/teachin
 ---
 
 ### Interests
-Broadly, I am interested in driving substantial advancements in humanity's development. To this end, my research focuses on the complementary goals of developing generally competent embodied agents ([AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)) and understanding human intelligence.
-
-Concretely, my work involves expanding the foundation and scope of **program synthesis** and **probabilistic, differentiable programming** which builds on:
-
-- *probabilistic modelling and inference* for managing uncertainty;
-- *neural networks* for pattern recognition, amortization;
-- *symbolic languages* for knowledge representation.
+I am broadly interested in driving substantial advancements in humanity's development. To this end, I pursue the complementary goals of developing generally capable embodied agents ([AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)) and understanding human intelligence, by creating agents that better combine learning and reasoning, drawing on different traditions in AI research, including formal languages, probabilistic modeling, and machine learning.
 
 Beyond this, I like to seek truth and beauty as they are found in nature, maths, and arts.
 
